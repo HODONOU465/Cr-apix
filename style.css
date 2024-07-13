@@ -1,0 +1,28 @@
+body {
+    background-color: #f8f9fa;
+    color: #333;
+    font-family: Arial, sans-serif;
+}
+.hero {
+    background: linear-gradient(to right, #6a11cb, #2575fc);
+    color: white;
+    padding: 50px 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+.btn-custom {
+    background-color: #28a745;
+    color: white;
+    border-radius: 30px;
+    padding: 15px 30px;
+    font-size: 1.2em;
+    transition: background-color 0.3s ease;
+}
+.btn-custom:hover {
+    background-color: #218838;
+}
+.footer-text {
+    margin-top: 20px;
+    font-size: 0.9em;
+    color: #fcfcfc;
+}
